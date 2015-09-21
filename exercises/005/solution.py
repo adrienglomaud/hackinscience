@@ -1,1 +1,2 @@
-print(42)
+import sys
+print(sys.argv[0]) 
